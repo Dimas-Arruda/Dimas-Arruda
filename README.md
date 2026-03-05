@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
   
-# Olá! Eu sou o Dimas 👋
+# Olá! Eu sou o Dimas Arruda 👋
 
 Desenvolvedor | Estudante de Direito | Entusiasta de Música e Jogos 🎧🎮
 
@@ -20,8 +20,8 @@ Desenvolvedor | Estudante de Direito | Entusiasta de Música e Jogos 🎧🎮
 
 <br><br>
 
-[![Estatísticas do Dimas](https://github-readme-stats.vercel.app/api?username=Dimas-Arruda&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Dimas-Arruda)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-Arruda&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Dimas-Arruda)
+[![Estatísticas do Dimas](https://github-readme-stats-fast.vercel.app/api?username=Dimas-Arruda&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Dimas-Arruda)
+[![Top Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dimas-Arruda&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Dimas-Arruda)
 
 <br><br>
 
