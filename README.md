@@ -1,10 +1,10 @@
 ﻿# Dimas-Arruda
 
-![Night rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
+![Night rainbow](https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-![Estatísticas](./images/stats.svg)
+![Estatísticas](https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/images/stats.svg)
 
-![Linguagens](./images/top-langs.svg)
+![Linguagens](https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/images/top-langs-custom.svg)
 
 ![Streak](https://streak-stats.demolab.com?user=Dimas-Arruda&theme=tokyonight&hide_border=true)
 
