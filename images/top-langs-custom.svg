@@ -1,0 +1,16 @@
+<svg width="300" height="75" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; }
+            .lang-name { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333; }
+        </style>
+        <rect x="0.5" y="0.5" width="299" height="74" rx="4.5" fill="#fff" stroke="#e4e2e2"/>
+        <text x="15" y="35" class="header">Most Used Languages</text>
+        <g transform="translate(0, 55)">
+    
+            <g transform="translate(15, 10)">
+                <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+                <text x="15" y="10" class="lang-name">Python (100.0%)</text>
+            </g>
+        
+        </g>
+    </svg>
