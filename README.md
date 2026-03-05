@@ -1,11 +1,30 @@
-﻿# Dimas-Arruda
+﻿<div align="center">
+  
+# Olá! Eu sou o Dimas 👋
 
-![Night rainbow](https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/profile-3d-contrib/profile-night-rainbow.svg)
+Desenvolvedor | Estudante de Direito | Entusiasta de Música e Jogos 🎧🎮
 
-![Estatísticas](https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/images/stats.svg)
+---
 
-![Linguagens](https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/images/top-langs-custom.svg)
+### 🛠️ Tecnologias e Ferramentas
 
-![Streak](https://streak-stats.demolab.com?user=Dimas-Arruda&theme=tokyonight&hide_border=true)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-Bem-vindo ao perfil de `Dimas-Arruda`. Edite este arquivo para mostrar seus projetos e informações.
+<br>
+
+### 📊 Minhas Estatísticas
+
+<img src="https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph">
+
+<br><br>
+
+[![Estatísticas do Dimas](https://github-readme-stats.vercel.app/api?username=Dimas-Arruda&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Dimas-Arruda)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-Arruda&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Dimas-Arruda)
+
+<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dimas-Arruda&theme=tokyonight&hide_border=true)](https://github.com/Dimas-Arruda)
+
+</div>
