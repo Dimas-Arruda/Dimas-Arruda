@@ -1,6 +1,6 @@
 <div align="center">
   
-# Olá! Eu sou o Dimas Arruda 👋
+# Olá! Eu sou o Dimas 👋
 
 Desenvolvedor | Estudante de Direito | Entusiasta de Música e Jogos 🎧🎮
 
@@ -16,7 +16,15 @@ Desenvolvedor | Estudante de Direito | Entusiasta de Música e Jogos 🎧🎮
 
 ### 📊 Minhas Estatísticas
 
-<img src="https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph">
+<img src="https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de Commits">
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da Cobrinha" src="https://raw.githubusercontent.com/Dimas-Arruda/Dimas-Arruda/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br><br>
 
